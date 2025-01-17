@@ -4,6 +4,8 @@
 
 - https://doc.rust-lang.org/stable/rust-by-example/
 
+- https://docs.rs/raylib/latest/raylib/
+
 #### Requirements
 
 ```bash
