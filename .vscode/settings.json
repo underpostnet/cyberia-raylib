@@ -1,0 +1,69 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "explorer.compactFolders": false,
+  "javascript.preferences.importModuleSpecifierEnding": "js",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "cSpell.words": [
+    "ANAME",
+    "browserconfig",
+    "Bymyelectrics",
+    "certbot",
+    "certonly",
+    "chebyshev",
+    "cooldown",
+    "cryptokoyn",
+    "cyberia",
+    "cyberiaonline",
+    "dbname",
+    "dists",
+    "DOGMADUAL",
+    "dondominio",
+    "dont",
+    "fileupload",
+    "fontawesome",
+    "fortawesome",
+    "googlebot",
+    "htdocs",
+    "htmls",
+    "ipfs",
+    "itemledger",
+    "jsonld",
+    "loadingio",
+    "Longname",
+    "Microdata",
+    "minami",
+    "MMORPG",
+    "mysqldump",
+    "neodrag",
+    "nexodev",
+    "pathfinding",
+    "Pixi",
+    "privkey",
+    "runas",
+    "sortablejs",
+    "taffydb",
+    "underpost",
+    "webroot",
+    "xampp",
+    "xfwd",
+    "youtu"
+  ],
+  "[dockerfile]": {
+    "editor.defaultFormatter": "ms-azuretools.vscode-docker"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "[rust]": {
+    "editor.defaultFormatter": "jinxdash.prettier-rust"
+  }
+}
