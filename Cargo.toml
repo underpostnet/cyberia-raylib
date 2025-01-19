@@ -1,5 +1,5 @@
 [package]
-name = "cyberia-raylib"
+name = "cyberia-raylib-client"
 version = "0.1.0"
 edition = "2021"
 
